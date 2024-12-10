@@ -2,7 +2,7 @@
 
 ## Description
 
-Aplikasi TodoApp adalah aplikasi manajemen tugas sederhana namun kuat yang memungkinkan pengguna menambah, mengedit, dan menghapus tugas secara efisien. Selain itu, ia menawarkan fitur seperti pelacakan penyelesaian tugas, pengurutan tanggal, pemberitahuan & pengingat, dan kemampuan ekspor tugas.
+The TodoApp application is a simple but powerful task management application that allows users to efficiently add, edit and delete tasks. In addition, it offers features such as task completion tracking, date sorting, notifications & reminders, and task export capabilities.
 
 ## Features
 
@@ -43,7 +43,6 @@ Aplikasi TodoApp adalah aplikasi manajemen tugas sederhana namun kuat yang memun
 - Android Studio / Visual Studio Code
 - Android Emulator / iOS Simulator
 
-#### Flutter
 
 [Flutter](https://flutter.dev/docs/get-started/install) is a free and open-source mobile UI framework developed by Google. Follow the instructions on [Flutter official website](https://flutter.dev/docs/get-started/install) to install and set up your environment.
 
